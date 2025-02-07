@@ -1,0 +1,93 @@
+# Buck Converter PCB
+
+## Project Objectives
+- Understand the PCB design process
+- Learn how to select ICs
+- Learn how to read and use component datasheets
+- Make a Schematic Diagram
+- Route the a Buck Converter IC test board
+
+## Altium Designer
+Altium is a PCB design software. You will need to obtain a free student license and install the program on your device. PAST also has a computer with Altium installed.
+https://www.altium.com/education/students
+
+## Background
+Buck Converters are DC-DC voltage regulators. They are comprised of RLC components (resistors, capacitors, inductors) in a special configuration to optimise voltage stability
+and power efficiency. A good explanation of buck converters: . A buck converter IC contains these components in a tiny chip, which often also has other built in 
+functions like overcurrent protection. Bucks are used in the EPS (Electronic Power System) of a CubeSat to step down the battery supply voltage for 
+other subsystems (usually to 3.3V and 5V). They a preferred over Low Dropout Regulators because they are more efficient. There are also boost converters which step up voltages. 
+
+## Selecting a Buck Converter IC
+What to consider in component selection:
+- Design Requirements (power efficiency, current capacity, size etc)
+- Detailed & readable datasheet
+- Cost
+
+Characteristics of buck converters you may want to research: switching frequency, control methods (synchronous or non synchronous), quiescent current (and their trade-offs).
+
+To select a component, search for it on [Mouser](https://au.mouser.com/), and select the appropriate filters. 
+
+<img width="928" alt="image" src="https://github.com/user-attachments/assets/78aa9da8-3472-4a56-997a-01cdf431c48e" />
+
+🐔 **TASK 1:** Find a suitable buck converter IC to meet the following requirements:
+- Input voltage > 11V
+- Output voltage 3.3V or 5V (or both if you wanna go for a dual output buck)
+- Greater than 3A output
+- Less than $10 per chip
+- Smaller number of parts e.g. capacitors, pins
+- Low quiescent current
+
+## Making a Schematic
+🐔 **TASK 2**: First we need to import the buck converter IC you selected. You can import the Buck Converter using the 
+[Alitum Library Loader](https://www.samacsys.com/altium-designer-library-instructions/) and putting in the part number.
+
+### Reading the Datasheet
+To make the schematic, we need to know how the IC works, and what is required for it to work. This is where the datasheet comes in. You should read through it, and pay close
+attention to the pin configuration, specifications, detailed description (for understanding internal circuitry), and Application and Implementation.
+
+You can find what is needed for the IC to function through reading the Typical Application Section. This is an example for a buck-boost converter but should be similar.
+
+<img width="382" alt="image" src="https://github.com/user-attachments/assets/6896499b-5bfb-4aea-b3f0-98edc4a93c77" />
+
+🐔 **TASK 3:** Read the IC datasheet and search for appropriate components for the buck IC in our application. When selecting the components, always try to adhere to the
+[Avionics Recommended Electronic Components.docx](https://github.com/user-attachments/files/18702005/Avionics.Recommended.Electronic.Components.docx).
+
+### Connecting components
+
+- Since the purpose of this PCB is to test the buck converter IC, you also want to add test points for Vin, Vout and ground.
+- Other good practices for PCB design is to add indicator LEDs and reverse voltage protection (you will need to search for ways to achieve this yourself or ask someone).
+- Annotating the schematic with how it operates is important for clear documentation.
+This is an example of a schematic for a buck-boost converter:
+
+<img width="554" alt="image" src="https://github.com/user-attachments/assets/9b2d269c-4161-4b88-b2d7-1f5a6a8fe2ca" />
+
+🐔 **TASK 4:** 
+Make a schematic diagram for your selected buck converter, applying good design practices.
+
+## Routing the Buck
+- Routing is connecting components with copper traces in a PCB.
+- When routing we need to consider things like current, heat dissapation. The datasheet for voltage regulators usually have a reccommended PCB layout you should follow.
+- For a 2-layer PCB, you should use a ground plane (polygon pour) on the bottom layer, which serves as a reference and ensures stability (search for how to do this or ask someone).
+- You also must also adhere to the JLC manufacturing specifications when routing, otherwise a pcb you design cannot be ordered!
+- If you want a challenge, try to minimise the the space taken up by all the components.
+
+🐔 **TASK 5:** Route a 2 layer PCB for your buck converter, following guidelines. Include big pads (with holes) for Vin and GND to connect an external power source. 
+
+The end result should end up something like this (but better):
+
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/354ba7a2-70a9-498e-9474-be963aad5295" /> 
+<img width="244" alt="image" src="https://github.com/user-attachments/assets/b7f99f84-e628-4863-af75-5ec346923e38" />
+
+
+These videos provide good PCB design tips:
+
+## Checking your PCB
+- Check for Design Rule Errors to make sure your board is manufacturable. Tools -> Design Rule Check
+- Follow the Avionics PCB Checklist [Avionics PCB Design Final checklist.xlsx](https://github.com/user-attachments/files/18702104/PCB.Design.Final.checklist.xlsx) to make sure your board has no errors. 
+
+## Final Notes
+- You have designed an isolated test board for a buck converter, but in a CubeSat, buck converters are only a small fraction of an EPS board.
+- An extension of this project would be learning about power distribution.
+- Remember to log everything you have done and learnt in your logbook!
+
+LETS GOOOOOO CONGRATS ON COMPLETING THIS PROJECT!! :fire: :fire: :fire:
