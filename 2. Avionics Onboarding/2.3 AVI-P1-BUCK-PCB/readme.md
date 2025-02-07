@@ -1,5 +1,11 @@
 # Buck Converter PCB
 
+## Background
+Buck Converters are DC-DC voltage regulators. They are comprised of RLC components (resistors, capacitors, inductors) in a special configuration to optimise voltage stability
+and power efficiency. A good explanation of buck converters: . A buck converter IC contains these components in a tiny chip, which often also has other built in 
+functions like overcurrent protection. Bucks are used in the EPS (Electronic Power System) of a CubeSat to step down the battery supply voltage for 
+other subsystems (usually to 3.3V and 5V). They a preferred over Low Dropout Regulators because they are more efficient. There are also boost converters which step up voltages. 
+
 ## Project Objectives
 - Understand the PCB design process
 - Learn how to select ICs
@@ -7,15 +13,9 @@
 - Make a Schematic Diagram
 - Route the a Buck Converter IC test board
 
-## Altium Designer
-Altium is a PCB design software. You will need to obtain a free student license and install the program on your device. PAST also has a computer with Altium installed.
-https://www.altium.com/education/students
-
-## Background
-Buck Converters are DC-DC voltage regulators. They are comprised of RLC components (resistors, capacitors, inductors) in a special configuration to optimise voltage stability
-and power efficiency. A good explanation of buck converters: . A buck converter IC contains these components in a tiny chip, which often also has other built in 
-functions like overcurrent protection. Bucks are used in the EPS (Electronic Power System) of a CubeSat to step down the battery supply voltage for 
-other subsystems (usually to 3.3V and 5V). They a preferred over Low Dropout Regulators because they are more efficient. There are also boost converters which step up voltages. 
+## Pre-req: Altium Designer
+Altium is a PCB design software. You will need to obtain a free student license and install the program on your device through https://www.altium.com/education/students. PAST also has a computer with Altium installed.
+Refer to the resources in Intro To Electronic Design to learn how to operate in Altium.
 
 ## Selecting a Buck Converter IC
 What to consider in component selection:
