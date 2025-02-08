@@ -22,8 +22,10 @@ get you started:
 - [Altium Designer Walkthrough](https://www.altium.com/documentation/altium-designer/tutorial-complete-design-walkthrough?srsltid=AfmBOoqkGIepiJsCApQ-1vasckeoRjSUaeAYHLYKAWCuF9ruBfx9nrcR#the-design)
 - [Altium Designer Video Tutorial](https://www.youtube.com/watch?v=YTGzncKU5RY)
 - Spacecraft Videos
+
 Don't hesitate to ask for help in the Recruits Discord Server as well.
 
 ## Important Notes
 - When creating an Altium Project, you should import JLCPCB Design Rules. Find instructions in:
   [Avionics Schematic-PCB Instructions.docx](https://github.com/user-attachments/files/18704231/AVI-SPCB.Avionics.Schematic-PCB.Instructions.docx)
+- Follow [Avionics Recommended Electronic Components.docx](https://github.com/user-attachments/files/18718183/Avionics.Recommended.Electronic.Components.docx). The standard component footprint for passives is 0603. 
