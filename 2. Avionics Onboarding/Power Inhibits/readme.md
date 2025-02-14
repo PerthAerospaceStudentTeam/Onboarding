@@ -16,6 +16,7 @@ Find the relavent specifications in section 3.2.
 ## Tips
 - The PCB needs to be able to interface with the physical switches.
 - It may also be a good idea enable the pcb to be powered externally some way, so the inhibitors can be tested.
+- Consider adding redundant switches and ICs
 - For additional safety, incorporating an extra isolation switch or reset button on the board could be useful.
 
 ## Resources to get you started
