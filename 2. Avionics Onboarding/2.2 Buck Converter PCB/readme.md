@@ -3,7 +3,7 @@
 ## Background
 Buck Converters are DC-DC voltage regulators. They are comprised of RLC components (resistors, capacitors, inductors) in a special configuration to optimise voltage stability
 and power efficiency. A good explanation of buck converters: https://www.youtube.com/watch?v=W6NOV6b8kxs&t=466s. A buck converter IC contains these components in a tiny chip, which often also has other built in 
-functions like overcurrent protection. Bucks and buck-boosts are used in the EPS (Electronic Power System) of a CubeSat to step down the battery supply voltage for 
+functions like overcurrent protection. Bucks and buck-boosts are used in the EPS (Electronic Power System) of a CubeSat to step down the raw supply voltages from solar panels or batteries for 
 other subsystems (usually 3.3V and 5V). They a preferred over Low Dropout Regulators because they are more efficient. There are also boost converters which step up voltages. 
 
 ## Project Objectives
