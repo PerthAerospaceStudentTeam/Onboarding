@@ -19,3 +19,4 @@ is still important to know the key ideas.
 - ADCS has some operational modes: Detumbling, Nadir Pointing (Mission dependant), Sun Tracking
 
 ## ADCS Resources
+- [Fundementals of Spacecraft ADCS_compressed.pdf](https://github.com/user-attachments/files/18797459/Fundementals.of.Spacecraft.ADCS_compressed.pdf)
