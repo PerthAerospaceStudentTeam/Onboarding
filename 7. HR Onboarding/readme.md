@@ -1,11 +1,7 @@
-# **HR Onboarding**
+# HR Onboarding
 
-The Human Resources department is responsible for the management and well-being of the members of PAST.
+The Human Resources department is responsible for supporting the learning and development of PAST members, and the team as a whole, recruitment and onboarding, organising events, and outreach. The work of HR is crucial to fostering an awesome team
+environment!
 
-HR is responsible for the handling of:
-- Administer performance development processes
-- Support the learning and development of teams and individuals
-- Coordinate recruitment and onboarding
-- Coordinate separation and termination processes
-- Implement and monitor WHS policies, procedures and programs
+If you would like to become a HR member, you must have evidence of HR work in your logbook. If you develop an interest in HR after Onboarding, then please speak to a HR member, we would love more people to help out. 
 
