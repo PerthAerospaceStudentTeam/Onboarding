@@ -1,16 +1,16 @@
 # Fundraising
 
-# Background
+## Background
 It would be great to have an extra avenue to recieve funds. Having this money could also give us more flexibility to get less critical things
 like cool PAST Merch!! 😎 Having fundraisers could also help get PAST's name out there, make our team more known, and give us
 content for our socials. We have nothad any fundraisers in the *past* due to limited HR personnel. 
 It would be awesome if some new members could help us get started!
 
-# Project Objectives
+## Project Objectives
 - Plan and organise a fundraiser for PAST. This can be a collaborative project with Marketing.
 - Consider what the fundraiser will be - some sort of sale? donations? an event?
 - Who is your target audience and how can you maximise the profits made?
 - Take action and make the fundraiser happen! - emailing stakeholders, advertising the fundraiser.
 
-# Resources to get you started
+## Resources to get you started
 - IDK need to think about dis
