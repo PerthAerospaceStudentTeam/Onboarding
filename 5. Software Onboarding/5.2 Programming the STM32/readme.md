@@ -26,7 +26,16 @@ Once the project has been created you will be presented with the Pinout & Config
 
 ![image](https://github.com/user-attachments/assets/2cefb839-2d18-4671-aacd-abe89a490e17)
 
-8. 
+8. To assign a pin to drive the onboard LED click the pin labelled "PB3" and assign it to GPIO_Output from the menu. Then right click to assign it a user label. 
+
+![image](https://github.com/user-attachments/assets/97ef24e4-e83e-4434-a23c-4646fd014e86)
+
+![image](https://github.com/user-attachments/assets/17cd7a89-541e-4fbf-9141-4294f337a3c6)
+![image](https://github.com/user-attachments/assets/a84bc743-0b72-4326-b873-4ade57bf94fa)
+
+9. 
+
+
 
 Steps to include
 - Pin assignment 
