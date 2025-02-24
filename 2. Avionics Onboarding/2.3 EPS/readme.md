@@ -23,6 +23,8 @@ Research the following questions and write in short about what you find:
 - **What impact do extreme temperature variations have on power generation and storage?**
 - **What kind of autonomous fault detection and recovery mechanisms exist to prevent power system failure?**
 - **How is power handled during launch, transit and orbit?**
+- **Can you think of any other challenges for electronics in space?**
+
 
 ## **resources**
 https://www.pdfdrive.com/spacecraft-systems-engineering-fourth-edition-e183628068.html
