@@ -6,6 +6,7 @@ The STM32 family of microcontrollers is primarily what we use as the flight comp
 2. Once the install process has finished launch the software and create a new project
 
 image 
+
 3. Enter the name of the board into the search bar: 
 
 image
