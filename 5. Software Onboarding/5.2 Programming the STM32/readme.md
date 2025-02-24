@@ -4,9 +4,11 @@ The STM32 family of microcontrollers is primarily what we use as the flight comp
 ## First Project 
 1. Download and install STM32CubeIDE: https://www.st.com/en/development-tools/stm32cubeide.html
 2. Once the install process has finished launch the software and create a new project
-	image 
+
+image 
 3. Enter the name of the board into the search bar: 
-	image
+
+image
 
 Steps to include
 - Pin assignment 
