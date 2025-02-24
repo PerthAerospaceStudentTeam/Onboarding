@@ -3,13 +3,16 @@ The STM32 family of microcontrollers is primarily what we use as the flight comp
 
 ## First Project 
 1. Download and install STM32CubeIDE: https://www.st.com/en/development-tools/stm32cubeide.html
-2. Once the install process has finished launch the software and create a new project
+2. Once the install process has finished launch the software and create a new STM32 Project. You may need to wait a few minutes while it downloads files.
 
-image 
+![image](https://github.com/user-attachments/assets/8c01b131-5703-4244-b378-b4c4ad4bd95f)
 
-3. Enter the name of the board into the search bar: 
+3. Enter the part number into into the search bar (L432KC) and select the nucleo board.
 
-image
+![image](https://github.com/user-attachments/assets/9a8dc436-9441-4a8a-b14f-9fb5a5db6107)
+
+![image](https://github.com/user-attachments/assets/ba0da2a9-aec2-4de3-8cde-e519f5ae7eea)
+
 
 Steps to include
 - Pin assignment 
