@@ -6,7 +6,7 @@ This will walk you through the steps required to create a simple STM32 Project t
 1. Download and install STM32CubeIDE: https://www.st.com/en/development-tools/stm32cubeide.html
 2. Once the install process has finished, launch the software and create a new STM32 Project. You may need to wait a few minutes while it downloads additional files.
 
-![image](https://github.com/user-attachments/assets/8c01b131-5703-4244-b378-b4c4ad4bd95f)
+![416148429-8c01b131-5703-4244-b378-b4c4ad4bd95f](https://github.com/user-attachments/assets/c74385df-d6e5-4fb9-97da-23ff34e397a1)
 
 3. Enter the part number into into the search bar (L432KC) and select the nucleo board then click "Next >".
 
@@ -17,9 +17,9 @@ This will walk you through the steps required to create a simple STM32 Project t
 4. Give the project a name. Something that includes the part number and function is recommended. e.g. "L432KC_Blink"
 5. Keep the options are at their default values and click "Finish". You may need to wait while it downloads all the API files. 
 
-![image](https://github.com/user-attachments/assets/21bd9539-7b54-4635-9061-74c1eab86d6a)
+![416167364-21bd9539-7b54-4635-9061-74c1eab86d6a](https://github.com/user-attachments/assets/1c9704e3-4274-421e-9ce5-6a1d422aaa3f)
 
-6. 
+6.
 
 Steps to include
 - Pin assignment 
