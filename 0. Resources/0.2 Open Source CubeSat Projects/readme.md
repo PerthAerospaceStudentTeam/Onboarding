@@ -19,3 +19,5 @@ Open Source projects from other CubeSat teams, or individuals.
 [$1k CubeSat project with details on EPS and radio + other things](https://github.com/rgw3d)
 
 [Build a CubeSat Project (Individual)](https://codeberg.org/buildacubesat-project)
+
+[IIT Bombay Student Satellite Program](https://github.com/Student-Satellite-IITB)
