@@ -3,13 +3,13 @@
 Congratulations on becoming a PAST recruit! 🎉 *YIPPEE!* 🎉
 
 Onboarding involves exploring CubeSat projects, upskilling yourself in areas that interest you through projects, getting familiar with PAST and meeting cool people 😎.
-Throughout 6 weeks of Onboarding, you have the freedom to choose from an awesome selection of project/s which ones you would like to tackle and delve into.
+Throughout 8 weeks of Onboarding, you have the freedom to choose from an awesome selection of project/s which ones you would like to tackle and delve into.
 If you have no idea where to start, do not worry! Projects have resources to help you get started, and don't hesitate to ask a HR member if you need some guidance selecting
 one to begin with. 
 Some projects are also more guided than others, so we reccommend doing those first if you want to
 build up some confidence 😊
 
-That being said, we will certainly **not** be holding your hand throughout the process. We will not provide all the answers and leave a lot of things open for you to figure out. 
+That being said, we will certainly **not** be holding your hand throughout the process. We will not provide the answers and leave a lot of things open for you to figure out. 
 You will often need to find your own resources to answer your own questions (the internet is your best friend). 
 Consider this a taste of what it is like to work on an actual CubeSat project, as you will be expected to navigate projects more ambiguous 
 that the ones here if you end up becoming a PAST member.
@@ -23,6 +23,8 @@ In this repository you will find a collection of projects waiting to be investig
 6. Mission
 7. Marketing
 8. Human Resources
+
+You are not limited to the projects in this repository. If you have any ideas about what could be most useful to do, then please take initiative to communicate with the relavent people and work on it! We highly encourage you to do this.
 
 If you have any questions, please do not hesitate to ask in the PAST Recruits Discord Server or message a PAST member.
 Direct any formal enquiries to past@curtin.edu.au.
