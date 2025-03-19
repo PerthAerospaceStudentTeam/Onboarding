@@ -1,4 +1,4 @@
-## Onboarding Timeline
+# Onboarding Timeline
 
 ### ⭐ WEEK 1
 - Read through the [PAST Onboarding Handbook](https://github.com/PerthAerospaceStudentTeam/Onboarding/blob/main/0.%20Resources/PAST%20Onboarding%20Handbook%20S1-2025.pdf)
