@@ -20,9 +20,8 @@ In this repository you will find a collection of projects grouped into our depar
 3. ADCS
 4. Mechanical
 5. Software
-6. Mission
-7. Marketing
-8. Human Resources
+6. Marketing
+7. Human Resources
 
 You are not limited to the projects in this repository. If you have any ideas about what could be most useful to do, then please take initiative to communicate with the relavent people and work on it! We highly encourage you to do this. If you express an interest to get more involved you will naturally be integrated with the team more!
 
