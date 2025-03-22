@@ -1,0 +1,28 @@
+# Sun-Tracking Solar Panel
+
+## Background
+CubeSats receive their power from solar panels that are mounted to their structure. If not enough sunlight is received, the 
+satellite will lose power and no longer be able to function. A sun-tracking solar panel maximises sunlight exposure by pointing
+the solar panels toward the sun as much as possible.
+
+This project involves the mechanical design for a sun-tracking solar panel mount that allows the panels to rotate about 2 axes. 
+The mount should consider the current design for the CubeSat structure and provide adequate mounting for the solar panel PCBs
+(talk to the Mechanical and Avionics leads for the files). The electronics do not need to be designed but the project student 
+should have a top-level understanding of how it will work.
+
+## Project Objectives
+1. A document investigating the feasibility of a sun-tracking solar panel.
+2. At least 3 concept designs including strengths and weaknesses of each.
+3. CAD model of sun-tracking solar panel mount
+4. FEAs showing that JAXA specifications are met
+5. 3D printed model demonstrating proof of concept
+
+## Resources to get you started
+- [University of Dayton Study](https://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1172&context=uhp_theses)
+- [Mechanism Designs for Solar Tracking](https://nottingham-repository.worktribe.com/OutputFile/6845372)
+- [Dwarf Planet Project](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=3260&context=smallsat)
+- [San Jose University Study](https://www.sjsu.edu/ae/docs/project-thesis/David.Fenn-S15.pdf)
+
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgomspace.com%2F6u-premium.aspx&psig=AOvVaw1ya_vq_xms3uykJmUyOsyy&ust=1742722124504000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODojPuvnYwDFQAAAAAdAAAAABAZ)
+
+
