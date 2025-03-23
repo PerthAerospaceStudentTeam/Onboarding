@@ -23,10 +23,7 @@ In this repository, you will find a collection of projects grouped into our depa
 6. Marketing
 7. Human Resources
 
-You are not limited to the projects in this repository. If you have any ideas about what could be most useful to do, then please take the initiative to communicate with the relevant people and work on it! We highly encourage you to do this. If you express an interest to get more involved you will naturally be integrated with the team more!
-
-## What now?
-Navigate to the Getting Started Folder and take a look at the [Onboarding Timeline](https://github.com/PerthAerospaceStudentTeam/Onboarding/blob/main/0.%20Resources/Onboarding%20Timeline.md) for the tasks you should complete each week.
+You are not limited to the projects in this repository. If you have any ideas about what could be most useful to do, then please take the initiative to communicate with the relevant people to work on it! If you express an interest to get more involved you will naturally be integrated with the team more.
 
 ## Important Notes
 Often, we will not provide the answers and leave a lot of things open for you to figure out. 
