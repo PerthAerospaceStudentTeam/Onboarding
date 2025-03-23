@@ -1,0 +1,36 @@
+# Intro to ADCS
+The Attitude Determination and Control System (ADCS) is a critical subsystem in CubeSats that manages the orientation (attitude) of the satellite in space. 
+It is responsible for determining the satellite's orientation relative to some reference frame (such as the Earth) 
+and controlling the orientation to achieve specific mission objectives like pointing cameras or antennas.
+
+## Attitude Sensors
+Sensors provide data that can be used to calculate the CubeSat's current attitude. Attitude Sensors can include: 
+- Sun sensors
+- Magnetic field sensors (magnetometers)
+- Angular rate sensors (gyroscope)
+- Horizon sensors
+- Star trackers. 
+These sensors
+ provide vector measurements in the CubeSat's reference frame. For a 1U CubeSat, magnetometers, gyroscopes and sun sensors
+  are most common. 
+
+## Attitude Determination
+Attitude is calculated by comparing vectors measured by sensors onboard the CubeSat (body fixed frame) with vectors in a fixed 
+reference frame (e.g. Earth-Centred-Inertial frame). Attitude must first be initialised (obtain the first value) then a recursive
+method of attitude estimation can be used. Methods of attitude determination include:
+- TRIAD Algorithm
+- Davenport's q-method
+- Complimentary filter
+- Kalman Filter
+
+## Attitude Control
+Actuators change the attitude of the CubeSat.
+Common actuation methods for attitude control include Magnetorquers and Reaction Wheels.
+Magnetorquers are variable electromagnets that interact with the earth's magnetic field to produce control torques.
+Reaction wheels are spinning disks that produce a reaction torque through the conservation principle of angular momentum.
+ADCS has some operational modes: 
+- Detumbling
+- Nadir Pointing
+- Sun Tracking
+
+
