@@ -1,4 +1,4 @@
-# 📖 Documentation Resources
+# Documentation Resources
 
 ## ✍️ Logbook
 Your logbook's purpose is to document the development of your skills, record your project's progress, keep yourself accountable and serve as a reference when creating your Design Concepts and Overview Document.
