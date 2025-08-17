@@ -5,5 +5,5 @@ environment!
 
 If you would like to become a HR member, you must have evidence of HR work in your logbook. If you develop an interest in HR after Onboarding, then please speak to a HR member, we would love more people to help out. 
 
-NOTE: The HR Onboarding Projects will likely undergo some changes between now & the first onboarding session.
+NOTE: If you have ideas for a project not specified on this GitHub, please talk to a HR member (@Annabelle (HR onboarding) on dicord).
 
