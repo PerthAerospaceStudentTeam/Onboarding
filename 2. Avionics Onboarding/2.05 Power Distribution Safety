@@ -1,0 +1,28 @@
+# Power Distribution Safety
+This project is an introductory project that involves creating a PCB that can help protect other subsystems in case the Power Distribution Module (PDM) on the Cubesat malfunctions.
+
+## Background
+One of the main functions of the Electronic Power System (EPS) is the distribution of power to all other subsystems in the Cubesat.
+Many Integrated Circuit (IC) components have common voltage requirements to function, such as 5V or 3.3V, so Cubesats generally have bus lines for these common voltages.
+A bus is a node where a line or several lines are connected and may also include several components such as loads and generators in a power system. 
+
+Cubesats generally orbit at Very Low Earth Orbits (VLEO) or Low Earth Orbits and are commonly found at altitudes of 350km to 500km. 
+The Van Allen radiation belts contain energetic protons and electrons that are trapped in the Earth’s magnetic field and generally follow the magnetic field lines.
+While these belts are normally found at altitudes of 1000km or above, a phenomenon known as the South Atlantic Anomaly can cause electrons and protons to fall into LEO altitudes.
+These charges can cause the EPS to short circuit which can damage subsystems and components if left untreated.
+
+Since this phenomenon occurs very quickly, a circuit needs to be designed to ensure that damage will be prevented to other subsystems in the Cubesat.
+
+## ☑️ Project Deliverables
+1. Research and select an appropriate way to monitior the Voltage & Current of a bus 
+2. Research and select an appropriate protection IC
+3. Design and outline a method to test your protections
+4. Create the PCB to protect the bus line
+
+## Resources to get you started
+- First it's a good idea to gain a high level understanding of EPS, and the role of your chosen sensor/s. Refer to [Electrical Power System](https://github.com/PerthAerospaceStudentTeam/Onboarding/blob/main/2.%20Avionics%20Onboarding/2.2%20Electrical%20Power%20System%20%5BRESOURCE%5D.md).
+- Current/Voltage Sensors: Filter through [Mouser](https://au.mouser.com/c/sensors/current-sensors/) 
+- Power Management ICs: Filter through [Mouser](https://au.mouser.com/c/semiconductors/power-management-ics/power-switch-ics-power-distribution/)
+- You should investigate how to interface sensors with a microcontroller. E.g. What communication protocols are used,
+  what microcontroller to use (we have Arduino Nanos, Espressif ESP32s, and STM32 development boards available for testing purposes)
+
