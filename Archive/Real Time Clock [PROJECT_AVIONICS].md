@@ -1,4 +1,4 @@
-# Real Time Click
+# Real Time Clock
 This project involves researching possible real time clock modules for the flight computer along with researching batteries which are allowed on CubeSats. You will design a minature PCB (No larger than 25cm^2 area) which contains an RTC, battery and communication pins. Afterwards you will write software drivers for the RTC and calculate the lifespan of the RTC with one battery
 
 ## Background 
