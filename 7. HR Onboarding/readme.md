@@ -1,4 +1,5 @@
-# HR Onboarding
+# Team Development Onboarding - Updating in process
+
 
 The Human Resources department is responsible for supporting the learning and development of PAST members, and the team as a whole, recruitment and onboarding, organising events, and outreach. The work of HR is crucial to fostering an awesome team
 environment!
