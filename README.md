@@ -12,16 +12,18 @@ build up some confidence 😊
 ## What do I do in Onboarding?
 You will select a project or projects to work on for the 8 week duration while keeping a logbook. Refer to the [Onboarding Timeline](https://github.com/PerthAerospaceStudentTeam/Onboarding/blob/main/0.%20Resources/Onboarding%20Timeline.md) for specific tasks you should complete each week. 
 
+## Where do I find the logbook template?
+Jump into > 0. Resources folder at the top and take a look around. You will find the logbook template in > Example Documentation!
+
 **To join a department, you must have evidence of that department's work in your logbook.**
 
 In this repository, you will find a collection of projects grouped into our departments:
-1. Mission
+1. ADCS
 2. Avionics
-3. ADCS
+3. Marketing
 4. Mechanical
 5. Software
-6. Marketing
-7. Human Resources
+6. Team Development
 
 You are not limited to the projects in this repository. If you have any ideas about what could be most useful to do, then please take the initiative to communicate with the relevant people to work on it! If you express an interest to get more involved you will naturally be integrated with the team more.
 
