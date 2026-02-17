@@ -9,7 +9,7 @@ Avionics Onboarding Projects range in guidance level. Some are more guided to he
 
 
 > [!IMPORTANT]
-> If you would like to become an Avionics member, there must be evidence Avionics Onboarding Project/s in your logbook. (There is an exception for the CAP subsystem)
+> If you would like to become an Avionics member, there must be evidence Avionics Onboarding Project/s in your logbook.
 
 
 # Intro to the Avionics Department
@@ -44,6 +44,3 @@ If you are interested in joining the CAP subsystems, suitable projects are:
 - Device Drivers (Software)
 - RTOS (Software)
 - Finite State Machine (Software)
-
-> [!IMPORTANT]
-> You may still be considered for an Avionics member if you work on one of the software projects mentioned above.
