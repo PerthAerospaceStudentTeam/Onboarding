@@ -16,6 +16,7 @@ notes etc).
 - We would would much favour a recruit who did not finish a project but whose logbook showed they learnt a lot
   compared to a recruit who claimed to complete multiple projects yet submitted a scarce logbook. 
 - You can find a logbook template (Word doc) in this folder, but feel free to customise it however you want.
+- You may customize the formatting of your logbook how you please.
 - Please save and share a link to your logbook with a PAST HR member.
 - **At the end of Onboarding, logbooks will be reviewed and used decide who makes it into the team, so take pride in maintaining it!**
 
@@ -23,3 +24,16 @@ notes etc).
 - You are encouraged to work together and use the discord server to discuss projects and meet awesome new people!
 - We will be running weekly Onboarding Sessions where you can work on your projects with fellow recruits, and get support from PAST members.
 - Times for Onboarding Sessions will be posted in the Recruits Discord Server
+
+
+# Documentation Resources
+
+## ✍️ Logbook
+Your logbook's purpose is to document the development of your skills, record your project's progress, keep yourself accountable and serve as a reference when creating your Design Concepts and Overview Document. 
+
+## 📑 Design Concepts and Overview Document
+The Design Concepts and Overview Document is detailed documentation and specifications of your projects work, for the entirety of the design process. Unlike your logbook, where you can dump all your notes, this document should be well structured so that any member reading it can understand the design decisions you made and why. 
+
+Upon a project's completion, a "Lessons Learnt" and "Future Work" section should outline the important skills and knowledge gained from working on the project, and what how the project's work could be extended moving forward.
+
+
