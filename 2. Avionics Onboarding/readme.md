@@ -11,6 +11,7 @@ Avionics Onboarding Projects range in guidance level. Some are more guided to he
 > [!IMPORTANT]
 > If you would like to become an Avionics member, there must be evidence Avionics Onboarding Project/s in your logbook.
 
+PAST is all about fostering innovation and skill development in undergraduate students - we want to see your ability to learn, grow and develop, as well as help you develop new skills. Usage of Generative AI programs to circumvent this is strongly discouraged. We ask that you avoid using Generative AI programs to produce designs or documentation for you.
 
 # Intro to the Avionics Department
 This is a resource for recruits to get an idea into the different divisions within the avionics department, and to help recruits choose an onboarding project based on their interests.
