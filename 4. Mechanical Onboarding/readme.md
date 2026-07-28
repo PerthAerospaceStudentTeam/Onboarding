@@ -18,9 +18,11 @@ The quality of any design you deliver is less important than quality of approach
 
 A report-like format is NOT expected, although there is no restriction on how you present your work. You need only deliver what is required.
 
+Seeking feedback early and often from experienced members on the designs you produce or consider is highly recommended.
+
 As mechanical designs are the backbone of other departments, **a vital skill for all mechanical members is the ability to document and describe their work**. Mechanical projects become finished products that other people must design for, assemble, procure and interpret later on. The ability to produce justified, understood and well documented work is just as important as technical ability in this department.
 
-## Use of Generative Programs
+## Expectations on the use of Generative Programs
 
 PAST is all about fostering innovation and skill development in undergraduate students - we want to see your ability to learn, grow and develop, as well as help you develop new skills. 
 
