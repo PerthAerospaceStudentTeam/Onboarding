@@ -2,7 +2,7 @@
 
 ## About PAST mechanical
 
-The Mechanical Department specializes in designing all mechanical and structural systems PAST requires. This involves the CubeSat structure, High-Altitude Balloons, Ground support hardware, deployable systems, thermal analysis, manufacturing, documentation and testing. Mechanical members may design, characterize and produce both space and non-space mechanisms and structures.
+The Mechanical Department specializes in designing all mechanical and structural systems PAST requires. This involves the CubeSat structure, High-Altitude Balloons, ground support hardware, deployable systems, thermal analysis, manufacturing, documentation and testing. Mechanical members may design, characterize and produce both space and non-space mechanisms and structures.
 
 Mechanical members should be fluent in CAD modelling, FEA simulations, and understand the relevant specifications and regulations their designs must be compliant with. 
 
@@ -12,11 +12,9 @@ Mechanical members should be fluent in CAD modelling, FEA simulations, and under
 
 The onboarding process is separated into a logbook and deliverables. The logbook exists solely as a record of work done. Deliverables are separate documents or packages submitted as part of the project. You may combine deliverables into a single document or submit them individually.
 
-**Before selecting any project, complete the standard questions provided, and submit this as part of your deliverables. These will directly inform the design process and provide you a good opportunity to learn background information.**
+**Before selecting any project, we recommend you complete the standard questions provided, and submit this as part of your deliverables. These will help inform your selection of a project and design process, as well as provide a good opportunity to learn background information.**
 
-The quality of any design you deliver is less important than quality of approach, dedication and reflection that you demonstrate throughout this process.
-
-A report-like format is NOT expected, although there is no restriction on how you present your work. You need only deliver what is required.
+The quality of any design you deliver is less important than quality of approach, dedication and reflection that you demonstrate throughout this process. A report-like format is NOT expected, although there is no restriction on how you present your work. You need only deliver what is required.
 
 Seeking feedback early and often from experienced members on the designs you produce or consider is highly recommended.
 
