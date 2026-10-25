@@ -16,6 +16,9 @@ PAST is all about fostering innovation and skill development in undergraduate st
 # Intro to the Avionics Department
 This is a resource for recruits to get an idea into the different divisions within the avionics department, and to help recruits choose an onboarding project based on their interests.
 
+> [!IMPORTANT]
+> Ensure you review all the files in resources, especially the AVI-RECS & AVI-CON documents.
+
 Avionics can be divided into three different subsystems.
 ```
 Avionics
